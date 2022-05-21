@@ -50,4 +50,7 @@ The high risk precision is 7% with 91% sensitivity.  The low risk population pre
 
 <img width="604" alt="image" src="https://user-images.githubusercontent.com/97330455/169670233-5fa1292c-6f06-483b-9f85-1b5ed4575526.png">
 
+## Summary 
+The ensemble classier model showed the highest accuracy with score of 93% when compared to other models that were tested. However, this model detects this with a low precision. All models that were tested had different accuracies with low precision but the ensemble model performed the best.
+
 
